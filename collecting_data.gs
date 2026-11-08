@@ -37,61 +37,73 @@ const CONFIG = {
   SOURCES: {
 
     SOP: {
-      url: 'https://docs.google.com/spreadsheets/d/1Vr42ln0nnrFsVssCfNaB4NkmzXEUOXV5gytAZOvUpvw/edit?gid=36611465#gid=36611465',
+      url: 'https://docs.google.com/spreadsheets/d/',
       sourceSheet: 'SOP Rekon (WAJIB BACA)',
       targetSheet: 'SOP Rekon (WAJIB BACA)'
     },
 
     SKU_LIST_SHOPEE_NEW: {
-      url: 'https://docs.google.com/spreadsheets/d/1ENQcZlxAexyc0qaxanp-rITsYwWt2gmDv1ucGncvM6I/edit?usp=sharing',
+      url: 'https://docs.google.com/spreadsheets/d/',
       sourceSheet: 'List SKU - Shopee',
       targetSheet: 'SKU List Shopee New'
     },
 
     SKU_LIST: {
-      url: 'https://docs.google.com/spreadsheets/d/1ENQcZlxAexyc0qaxanp-rITsYwWt2gmDv1ucGncvM6I/edit?usp=sharing',
+      url: 'https://docs.google.com/spreadsheets/d/',
       sourceSheet: 'Master SKU List',
       targetSheet: 'Master SKU List'
     },
 
     SHOPEE_DATA_ORDER: {
-      url: 'https://docs.google.com/spreadsheets/d/14VCTGVr0tRQkUFqQJMs07YYFaEH5RxZGe4IY7rcwY3Y/edit?usp=sharing',
+      url: 'https://docs.google.com/spreadsheets/d/',
       sourceSheet: 'Shopee',
       targetSheet: 'Shopee Data Order'
     },
 
     TIKTOK_DATA_ORDER: {
-      url: 'https://docs.google.com/spreadsheets/d/14VCTGVr0tRQkUFqQJMs07YYFaEH5RxZGe4IY7rcwY3Y/edit?usp=sharing',
+      url: 'https://docs.google.com/spreadsheets/d/',
       sourceSheet: 'Tiktok - Tokopedia',
       targetSheet: 'Tiktok Tokped Data Order'
     },
 
     SHOPEE_SETTLED: {
-      url: 'https://docs.google.com/spreadsheets/d/1ENQcZlxAexyc0qaxanp-rITsYwWt2gmDv1ucGncvM6I/edit?usp=sharing',
+      url: 'https://docs.google.com/spreadsheets/d/',
       sourceSheet: 'Shopee - LG New',
       targetSheet: 'Shopee Settled New'
     },
 
     TIKTOK_SETTLED: {
-      url: 'https://docs.google.com/spreadsheets/d/1ENQcZlxAexyc0qaxanp-rITsYwWt2gmDv1ucGncvM6I/edit?usp=sharing',
+      url: 'https://docs.google.com/spreadsheets/d/',
       sourceSheet: 'Tokopedia-TikTok',
       targetSheet: 'Tiktok Tokped Settled'
     },
 
     DETAIL_XENDIT: {
-      url: '',
+      url: 'https://docs.google.com/spreadsheets/d/',
       sourceSheet: 'Detail Xendit',
       targetSheet: 'Detail Xendit'
     },
 
     XENDIT: {
-      url: '',
+      url: 'https://docs.google.com/spreadsheets/d/',
       sourceSheet: 'Xendit',
       targetSheet: 'Xendit'
     },
 
+   MAGENTO: {
+      url: 'https://docs.google.com/spreadsheets/d/',
+      sourceSheet: 'Magento',
+      targetSheet: 'Magento'
+    },
+
+   DATA_TRACKER: {
+      url: 'https://docs.google.com/spreadsheets/d/',
+      sourceSheet: 'Data Tracker',
+      targetSheet: 'Data Tracker'
+    },
+
     SCRAPING_DATA: {
-      url: 'https://docs.google.com/spreadsheets/d/14VCTGVr0tRQkUFqQJMs07YYFaEH5RxZGe4IY7rcwY3Y/edit?gid=753951149#gid=753951149',
+      url: 'https://docs.google.com/spreadsheets/d/9',
       sourceSheet: 'Scraping Data',
       targetSheet: 'Scraping Data'
     }
